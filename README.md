@@ -3,7 +3,7 @@
 <p align="center">
   <h3 align="center">Idea Management Tool</h3>
   <p align="center">
-   Idea management is a practice used to organize insights. It allows large numbers of notes (aka highlights) to be freely combined and sorted into buckets (aka groups) based on their natural relationships.
+   Idea management is a practice used to organize insights. This tool supports such a pracitceas it allows large numbers of notes (aka highlights) to be freely combined and sorted into buckets (aka groups) based on their natural relationships.
     <br />
     <a href="https://laughing-spence-0d534b.netlify.app/"><strong>View Live »</strong></a>
     <br />
