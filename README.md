@@ -90,14 +90,15 @@ You will also see any lint errors in the console.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-<br/>
-_1. Ability to create buckets to group highlights in
-_2. Ability to add/remove/edit highlights with title and description
-_3. Ability to add tasks to highlights for additional tracking
-_4. Ability to set a date to the highlight using a dropdown calendar
-_5. Ability to label the highlights
-_6. Ability to move highlights from one bucket to another.
-_7. Ability to zoom in/zoom out of the whiteboard, resizing the Idea management tool components themselves.
+
+1. Ability to create buckets to group highlights in
+2. Ability to add/remove/edit highlights with title and description
+3. Ability to add tasks to highlights for additional tracking
+4. Ability to set a date to the highlight using a dropdown calendar
+5. Ability to label the highlights
+6. Ability to move highlights from one bucket to another
+7. Ability to zoom in/zoom out of the whiteboard, resizing the Idea management tool components themselves
+
 <br/>
 <img src="public\usage image.png" alt="Logo" width="1000" height="580">
 
