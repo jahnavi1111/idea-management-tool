@@ -43,7 +43,7 @@
 Project Repository Link: https://github.com/jahnavi1111/idea-management-tool
 <br/>
 <br/>
-<!-- <img src="public/homepage.png" alt="Logo" width="1000" height="580"> -->
+<img src="public\sample image.png" alt="Logo" width="1000" height="580">
 
 
 ### Built With
