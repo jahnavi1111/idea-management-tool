@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 
 import Bucket from "./Components/Bucket/Bucket";
-
 import "./App.css";
 import Editable from "./Components/Editabled/Editable";
 
@@ -123,8 +122,8 @@ function App() {
   return (
     <div className="app">
       <div className="app_nav"> 
-        <img src="..\public\logo idea management tool.png" alt="logo"></img>
-        <h1>Idea Management Tool</h1>
+      <img src="logo idea management tool.png" alt="logo"/>
+      <h2>Idea Management Tool</h2>
       </div>
       <div className="app_buckets_container">
         <div className="app_buckets">

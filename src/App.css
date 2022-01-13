@@ -28,6 +28,19 @@
   background-color: #fff;
 }
 
+.app_nav  img {
+  float: left;
+  width: 150px;
+  height: 150px;
+  background: #555;
+}
+
+.app_nav  h2 {
+  position: relative;
+  top: 32%;
+  left: 0.5%;
+}
+
 .app_buckets_container {
   flex: 1;
   width: 100%;
