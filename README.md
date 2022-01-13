@@ -5,7 +5,7 @@
   <p align="center">
    Idea management is a practice used to organize insights. This tool supports such a pracitceas it allows large numbers of notes (aka highlights) to be freely combined and sorted into buckets (aka groups) based on their natural relationships.
     <br />
-    <a href="https://laughing-spence-0d534b.netlify.app/"><strong>View Live »</strong></a>
+    <a href="https://idea-management-tool-jj.netlify.app/"><strong>View Live »</strong></a>
     <br />
     <br />
   </p>
@@ -43,7 +43,7 @@
 Project Repository Link: https://github.com/jahnavi1111/idea-management-tool
 <br/>
 <br/>
-<img src="public\sample image.png" alt="Logo" width="1000" height="580">
+<img src="public\sample image.png" alt="Logo" width="1200" height="580">
 
 
 ### Built With
@@ -100,7 +100,7 @@ You will also see any lint errors in the console.
 7. Ability to zoom in/zoom out of the whiteboard, resizing the Idea management tool components themselves
 
 <br/>
-<img src="public\usage image.png" alt="Logo" width="1000" height="580">
+<img src="public\usage image.png" alt="Logo" width="1200" height="580">
 
 
 
