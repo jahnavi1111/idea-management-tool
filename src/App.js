@@ -122,9 +122,10 @@ function App() {
 
   return (
     <div className="app">
-      {/* <div className="app_nav">
-        <h1>.</h1>
-      </div> */}
+      <div className="app_nav"> 
+        <img src="..\public\logo idea management tool.png" alt="logo"></img>
+        <h1>Idea Management Tool</h1>
+      </div>
       <div className="app_buckets_container">
         <div className="app_buckets">
           {buckets.map((item) => (
